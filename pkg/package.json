@@ -1,0 +1,16 @@
+{
+  "name": "wasm-bindgen-type-issue",
+  "collaborators": [
+    "MadonoHaru <madonoharu@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "wasm_bindgen_type_issue_bg.wasm",
+    "wasm_bindgen_type_issue.js",
+    "wasm_bindgen_type_issue_bg.js",
+    "wasm_bindgen_type_issue.d.ts"
+  ],
+  "module": "wasm_bindgen_type_issue.js",
+  "types": "wasm_bindgen_type_issue.d.ts",
+  "sideEffects": false
+}
